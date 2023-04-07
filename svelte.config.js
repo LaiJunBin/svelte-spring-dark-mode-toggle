@@ -17,10 +17,7 @@ const config = {
 			fallback: null,
 			precompress: false,
 			strict: true
-		}),
-		paths: {
-			base: '/svelte-spring-dark-mode-toggle'
-		}
+		})
 	}
 };
 
